@@ -1,0 +1,8 @@
+quote = '"Ni ne estas tiel naivaj, kiel pensas pri ni kelkaj personoj; ni ne kredas, 
+ke neŭtrala fundamento faros el la homoj anĝelojn; ni scias tre bone, ke la homoj 
+malbonaj ankaŭ poste restos malbonaj; sed ni kredas, ke komunikiĝado kaj konatiĝado 
+sur neŭtrala fundamento forigos almenaŭ la grandan amason de tiuj bestaĵoj kaj krimoj, 
+kiuj estas kaŭzataj ne de malbona volo, sed simple de sinnekonado kaj de devigata sinaltrudado."'
+famous_person = "Ludwik Lejzer Zamenhof "
+message = famous_person + "once said, " + quote
+print(message)
