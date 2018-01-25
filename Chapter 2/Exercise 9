@@ -1,0 +1,2 @@
+favorite_number = 25
+print("My favorite number is " + str(favorite_number) + ".")
