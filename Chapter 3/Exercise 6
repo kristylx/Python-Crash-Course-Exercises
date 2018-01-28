@@ -1,0 +1,25 @@
+guests = ["Martin Luther King", "Nikola Tesla", "Ludwik Lejzer Zamenhof"]
+
+print(guests[0] + ", please come to dinner.")
+print(guests[1] + ", please come to dinner.")
+print(guests[2] + ", please come to dinner.")
+
+unavailable_guest = guests.pop()
+print("\n" + unavailable_guest + " is unable to attend the dinner.")
+
+guests.insert(2, "William Edward Burghardt")
+print("\n" + guests[0] + ", please come to dinner.")
+print(guests[1] + ", please come to dinner.")
+print(guests[2] + ", please come to dinner.")
+
+print("\nWe got a bigger table!")
+guests.insert(0, "Harriet Tubman")
+guests.insert(2, "Dorothy Day")
+guests.append("Fyodor Dostoyevsky")
+
+print("\n" + guests[0] + ", please come to dinner.")
+print(guests[1] + ", please come to dinner.")
+print(guests[2] + ", please come to dinner.")
+print(guests[3] + ", please come to dinner.")
+print(guests[4] + ", please come to dinner.")
+print(guests[5] + ", please come to dinner.")
