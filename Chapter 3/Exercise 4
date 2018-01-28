@@ -1,0 +1,5 @@
+guests = ["Martin Luther King", "Nikola Tesla", "Ludwik Lejzer Zamenhof"]
+
+print(guests[0] + "please come to dinner.")
+print(guests[1] + "please come to dinner.")
+print(guests[2] + "please come to dinner.")
