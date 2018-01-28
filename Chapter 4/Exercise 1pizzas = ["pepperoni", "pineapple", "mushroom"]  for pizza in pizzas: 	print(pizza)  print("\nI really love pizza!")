@@ -1,0 +1,6 @@
+pizzas = ["pepperoni", "pineapple", "mushroom"]
+
+for pizza in pizzas:
+	print(pizza)
+
+print("\nI really love pizza!")
